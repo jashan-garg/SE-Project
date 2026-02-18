@@ -1,2 +1,2 @@
-# SE-Project
+# Pectory
 SE Project
